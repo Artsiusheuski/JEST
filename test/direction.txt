@@ -1,0 +1,2 @@
+toBe => for number,string;
+toEqual => for {},[];
